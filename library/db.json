@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-15T21:19:51.945821",
+  "total_videos": 1,
+  "videos": [
+    {
+      "id": "VID_2026_0001_76d70ac1",
+      "title": "进厂打工避坑指南：9个问题问清楚",
+      "source_url": "https://v.douyin.com/t8qv7Be-JGo/",
+      "tags": [
+        "打工",
+        "避坑",
+        "工厂",
+        "求职"
+      ],
+      "added_at": "2026-02-15T21:19:51.942327",
+      "video_file": "videos/VID_2026_0001_76d70ac1.mp4",
+      "transcript_file": "transcripts/VID_2026_0001_76d70ac1.txt",
+      "rewritten_files": {},
+      "status": "transcribed"
+    }
+  ]
+}

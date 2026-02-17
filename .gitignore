@@ -1,0 +1,7 @@
+ai-toolkit/
+web-search/
+.DS_Store
+outputs/
+*.pyc
+__pycache__/
+.env

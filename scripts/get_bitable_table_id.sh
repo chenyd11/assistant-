@@ -1,0 +1,31 @@
+#!/bin/bash
+#
+# 获取飞书Bitable表格ID
+#
+
+echo "=========================================="
+echo "获取Bitable表格ID"
+echo "=========================================="
+echo ""
+echo "请在浏览器中打开你的Bitable表格:"
+echo "https://fcnrncf2hy2l.feishu.cn/base/V87Cb06erar7kGsTFm0cR0JZnof"
+echo ""
+echo "然后按以下步骤操作:"
+echo ""
+echo "方法1 - 从URL获取:"
+echo "  1. 打开表格的任意一个子表"
+echo "  2. 查看浏览器地址栏"
+echo "  3. URL格式: https://.../base/xxx?table=yyy"
+echo "  4. yyy 就是 table_id"
+echo ""
+echo "方法2 - 从开发者工具获取:"
+echo "  1. 按 F12 打开开发者工具"
+echo "  2. 切换到 Network 标签"
+echo "  3. 刷新页面"
+echo "  4. 找到包含 'table' 的请求"
+echo "  5. 查看 table 参数"
+echo ""
+echo "=========================================="
+echo ""
+echo "获取到 table_id 后，请回复给我"
+echo "格式: table_id=tblxxxxxxxx"

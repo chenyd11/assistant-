@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "wechat": [
+      {
+        "id": "wechat_1",
+        "name": "我的公众号",
+        "cookie": null,
+        "token": null,
+        "notes": "主公众号",
+        "added_at": "2026-02-15T21:21:54.990679",
+        "status": "active"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "id": "xiaohongshu_1",
+        "name": "个人生活号",
+        "cookie": null,
+        "token": null,
+        "notes": "日常分享",
+        "added_at": "2026-02-15T21:21:59.468052",
+        "status": "active"
+      },
+      {
+        "id": "xiaohongshu_2",
+        "name": "职场干货号",
+        "cookie": null,
+        "token": null,
+        "notes": "求职避坑内容",
+        "added_at": "2026-02-15T21:22:07.276027",
+        "status": "active"
+      }
+    ],
+    "douyin": [
+      {
+        "id": "douyin_1",
+        "name": "主账号",
+        "cookie": null,
+        "token": null,
+        "notes": "日常内容",
+        "added_at": "2026-02-15T21:22:11.671899",
+        "status": "active"
+      },
+      {
+        "id": "douyin_2",
+        "name": "小号",
+        "cookie": null,
+        "token": null,
+        "notes": "测试内容",
+        "added_at": "2026-02-15T21:22:11.699405",
+        "status": "active"
+      }
+    ]
+  },
+  "published": []
+}
