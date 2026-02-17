@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "📊 项目总览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "📊 项目总览"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f137b6332896cdd0",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "📊 项目总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "📊 项目总览 的反向链接列表"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "📊 项目总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "📊 项目总览 的出链列表"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "📊 项目总览.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "📊 项目总览 的大纲"
             }
           }
         ]
@@ -201,6 +201,12 @@
   },
   "active": "66016060559ecad7",
   "lastOpenFiles": [
+    "Projects/07_初升高报考咨询融资/资料/市场调研/职教升学与就业路径调研---7c7b332c-61da-44d2-9071-a44bef05b30e.pdf",
+    "Projects/07_初升高报考咨询融资/资料/市场调研/职高升学咨询市场调研---e03d24af-af85-41ec-9a22-dcfabcde1d01.pdf",
+    "Projects/07_初升高报考咨询融资/资料/市场调研/职高未来发展与就业前景---4a1df32e-0430-48e2-968d-4aea67a060e6.pdf",
+    "Projects/07_初升高报考咨询融资/资料/市场调研",
+    "Projects/07_初升高报考咨询融资/资料",
+    "欢迎.md",
     "Projects/07_初升高报考咨询融资/项目概览.md",
     "Projects/06_虚拟体验科技调研/项目概览.md",
     "Projects/05_AI虚拟人矩阵/项目概览.md",
@@ -214,15 +220,10 @@
     "Projects/02_小说写作课/项目概览.md",
     "Projects/02_小说写作课",
     "Projects/01_AI小说创作营/项目概览.md",
-    "Projects/01_AI小说创作营",
     "Archive/归档项目.md",
     "Templates/项目模板.md",
     "Roles/角色管理.md",
     "📋 今日待办.md",
-    "📊 项目总览.md",
-    "Templates",
-    "Roles",
-    "Archive",
-    "欢迎.md"
+    "📊 项目总览.md"
   ]
 }
